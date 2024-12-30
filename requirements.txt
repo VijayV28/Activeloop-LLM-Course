@@ -13,7 +13,7 @@ charset-normalizer==3.4.1
 click==8.1.8
 colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
 comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1733502965406/work
-debugpy @ file:///D:/bld/debugpy_1734158944561/work
+debugpy @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/debugpy_1699554994633/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1733236420667/work
 deeplake==3.9.34
 dill==0.3.9
@@ -36,7 +36,7 @@ jmespath==1.0.1
 jsonpatch==1.33
 jsonpointer==3.0.0
 jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1733440914442/work
-jupyter_core @ file:///D:/bld/jupyter_core_1727163532151/work
+jupyter_core @ file:///C:/b/abs_beftpbuevw/croot/jupyter_core_1718818307097/work
 langchain==0.3.13
 langchain-core==0.3.28
 langchain-openai==0.2.14
@@ -64,7 +64,7 @@ pox==0.3.5
 ppft==1.7.6.9
 prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1733302527033/work
 propcache==0.2.1
-psutil @ file:///D:/bld/psutil_1735327342072/work
+psutil @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/psutil_1699482842340/work
 pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1733569405015/work
 pydantic==2.10.4
 pydantic_core==2.27.2
@@ -72,9 +72,9 @@ Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1733221634
 PyJWT==2.10.1
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
 python-dotenv==1.0.1
-pywin32==307
+pywin32==305.1
 PyYAML==6.0.2
-pyzmq @ file:///D:/bld/pyzmq_1728642398939/work
+pyzmq @ file:///C:/b/abs_f3yte6j5yn/croot/pyzmq_1734711069724/work
 regex==2024.11.6
 requests==2.32.3
 requests-toolbelt==1.0.0
@@ -86,7 +86,7 @@ SQLAlchemy==2.0.36
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
 tenacity==9.0.0
 tiktoken==0.8.0
-tornado @ file:///D:/bld/tornado_1732615900937/work
+tornado @ file:///C:/b/abs_7cyu943ybx/croot/tornado_1733960510898/work
 tqdm==4.67.1
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1733367359838/work
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1733188668063/work
